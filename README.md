@@ -61,6 +61,7 @@
 [
 \text{Output} = \text{Attention Weights} \cdot V
 ]
+
 3. 多头注意力（Multi-Head Attention）
 
 多头注意力机制通过并行计算多个不同的注意力头，捕捉输入序列中不同类型的关联信息。具体步骤如下：
